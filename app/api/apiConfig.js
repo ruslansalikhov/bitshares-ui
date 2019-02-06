@@ -375,15 +375,6 @@ export const settingsAPIs = {
                 "email:admin@blckchnd.com;telegram:ruslansalikhov;github:blckchnd"
         },
         {
-            url: "wss://api-ru.bts.blckchnd.com",
-            region: "Eastern Europe",
-            country: "Russia",
-            location: "Moscow",
-            operator: "Witness: blckchnd",
-            contact:
-                "email:admin@blckchnd.com;telegram:ruslansalikhov;github:blckchnd"
-        },
-        {
             url: "wss://api.bitsharesdex.com",
             region: "Northern America",
             country: "U.S.A.",
